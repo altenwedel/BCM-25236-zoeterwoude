@@ -501,6 +501,25 @@ index:
       tags: ["presentatie", "strategie", "participatie", "doelgroepen", "message house", "stakeholders"]
       vertrouwelijkheid: "intern"
 
+- document:
+    titel: "Verslag Werksessie Communicatie Warmtenet Rijndijk Zoeterwoude"
+    bestand: "Verslag Werksessie Communicatie Warmtenet Rijndijk Zoeterwoude.md"
+    type: "werksessie"
+    datum: "2025-09-10"
+    beschrijving: >
+      Verslag van de interactieve werksessie over communicatie rond het warmtenet
+      in Rijndijk. Bevat deelnemerslijst (gemeente en Beaumont Communicatie),
+      centrale bevindingen, wijkprofielen, tijdlijnanalyse, message house, en
+      concrete voorstellen zoals koffiekar-actie en laagdrempelig kennismakingsmoment.
+    status: "concept"
+    eigenaar: "Beaumont Communicatie"
+    bron: "intern"
+    gewicht: 4
+    relevantie: "strategie"
+    sentiment: "constructief"
+    tags: ["werksessie", "communicatiestrategie", "participatie", "message house", "wijkprofielen", "voorstellen"]
+    vertrouwelijkheid: "intern"
+
 # Metadata project
 project_info:
   naam: "Communicatie Warmtenet Rijndijk Zoeterwoude"
@@ -533,3 +552,4 @@ relevantie_legenda:
   project: "Projectmanagement en organisatie"
   achtergrond: "Achtergrondinformatie en context"
   analyse: "Analyses en onderzoeksresultaten"
+
