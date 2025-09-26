@@ -59,3 +59,18 @@ De communicatieadviseur (Claude) fungeert als expert en sparringpartner en draag
 ## Aanvullen van instructies
 Nieuwe instructies of aanvullingen kunnen eenvoudig worden toegevoegd door dit bestand (`instruction.md`) of het overzichtsbestand (`index.yaml`) uit te breiden.  
 Gebruik daarbij dezelfde structuur: context, uitdagingen, rol, principes, werkwijze, kennisgebieden.  
+
+## Nieuwe instructie – 18 september 2025 (Siona)
+Bericht Siona:
+
+Uitwerken en volgende stap participatie/communicatie Zoeterwoude
+Sicko van Dijk we hebben vanmorgen met Pooja Poonath kort teruggeblikt op de werksessie vorige week. Het was een goed moment, waarbij zij zelf tot conclusies zijn gekomen en dat het meer is dan goed informeren met bijv. een flyer (wat nu de gedachten was). Mensen meenemen in het proces en hoe bereiken we de 80% die nog niet is bereikt nu wel!
+ 
+We spraken af dat we het volgende doen:
+Maandag 22 september om half 4 hebben Sicko en Siona een vervolgafspraak om eerste opzet te bespreken en aan te scherpen
+Sicko werkt voor die tijd de opname en aantekeningen uit tot een eerste advies/voorstel
+Siona bespreekt na de 22e met de klant eerste opzet/uitgangspunten/advies(Afspraak wordt nog gemaakt door Siona met hem)
+Opleveren in week van 29 september lijkt mij haalbaar
+Uitwerking volgt daarna en is dan ook een nieuwe opdracht. 
+Laten we WEL ruimte houden voor een eerste communicatieactie - goed informatiemoment. Dat hebben we namelijk nu wel zo opgenomen in de offerte.
+
