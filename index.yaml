@@ -1,6 +1,105 @@
+# Index documenten
+index:
+  - id: 01
+    titel: "ChatGPT Overview Analyse"
+    datum: "2025-09-07"
+    gewicht: 2
+  - id: 02
+    titel: "Gemeentegids Zoeterwoude 2025"
+    datum: "2025-01-01"
+    gewicht: 2
+  - id: 03
+    titel: "Gemini Deep Search – Warmtetransitie Zoeterwoude-Rijndijk"
+    datum: "2025-09-07"
+    gewicht: 5
+  - id: 04
+    titel: "Zoeterwoude Gaat GOED – Gemeentekrant mei 2022"
+    datum: "2022-05-01"
+    gewicht: 3
+  - id: 05
+    titel: "Zoeterwoude Gaat GOED – Gemeentekrant najaar 2022"
+    datum: "2022-11-01"
+    gewicht: 4
+  - id: 06
+    titel: "Zoeterwoude Gaat GOED – Gemeentekrant voorjaar 2023"
+    datum: "2023-05-01"
+    gewicht: 3
+  - id: 07
+    titel: "Zoeterwoude Gaat GOED – Gemeentekrant najaar 2023"
+    datum: "2023-11-01"
+    gewicht: 5
+  - id: 08
+    titel: "Clippings Nieuwsartikelen Warmtenet Rijndijk"
+    datum: "2023"
+    gewicht: 3
+  - id: 09
+    titel: "Rijndijk Aardgasvrij 2030 - Website Artikel"
+    datum: "2025-09-07"
+    gewicht: 3
+  - id: 10
+    titel: "Zoeterwouds Handvat voor Participatie"
+    datum: "2025-01-01"
+    gewicht: 5
+  - id: 11
+    titel: "Rekenkamer Rapport - Inwoners- en Overheidsparticipatie"
+    datum: "2025-06-10"
+    gewicht: 5
+  - id: 12
+    titel: "BCM Week 36 - Studio Transitie Video Overzicht"
+    datum: "2025-09-07"
+    gewicht: 3
+  - id: 13
+    titel: "Sociale Kaart Zoeterwoude v15"
+    datum: "2025-01-01"
+    gewicht: 3
+  - id: 14
+    titel: "Aantekeningen 25-08"
+    datum: "2025-08-25"
+    gewicht: 4
+  - id: 15
+    titel: "Voorbereiding Slides"
+    datum: "2025-08-25"
+    gewicht: 3
+  - id: 16
+    titel: "Voorbereiding Communicatie Warmtenet Rijndijk"
+    datum: "2025-08-25"
+    gewicht: 4
+  - id: 17
+    titel: "Opdrachtformulier Interactieve Werksessie"
+    datum: "2025-07-23"
+    gewicht: 5
+  - id: 18
+    titel: "Kennismaking Zoeterwoude Presentatie"
+    datum: "2025-07-19"
+    gewicht: 4
+  - id: 19
+    titel: "Lokale Transitievisie Warmte Zoeterwoude"
+    datum: "2025-01-01"
+    gewicht: 5
+  - id: 20
+    titel: "Factsheet Warmtenetten"
+    datum: "2025-08-01"
+    gewicht: 4
+  - id: 21
+    titel: "Logboek Participatie Omgevingsvisie Zoeterwoude"
+    datum: "2022-01-01"
+    gewicht: 3
+  - id: 22
+    titel: "Van Gas Los - Uitvoeringsproject Rijndijk"
+    datum: "2021-11-01"
+    gewicht: 5
+  - id: 23
+    titel: "Zoeterwoude Warmtetransitie – Printscreens voorbereiding"
+    datum: "2025-09-20"
+    gewicht: 4
+  - id: 24
+    titel: "Voorbereiding Interactieve Werksessie – Communicatie Warmtenet Zoeterwoude Rijndijk"
+    datum: "2025-09-26"
+    gewicht: 4
+
 ---
-# Overzicht documenten Project Knowledge - Warmtenet Rijndijk Zoeterwoude  
----
+
+# Overzicht documenten Project Knowledge - Warmtenet Rijndijk Zoeterwoude
 
 - document:
       titel: "ChatGPT Overview Analyse"
@@ -16,9 +115,8 @@
       sentiment: "analytisch"
       tags: ["AI-analyse", "communicatie", "participatie", "overzicht"]
       vertrouwelijkheid: "intern"
----
 
-  - document:
+- document:
       titel: "Gemeentegids Zoeterwoude 2025"
       bestand: "250907 gemeentegids.pdf"
       type: "achtergrond"
@@ -32,9 +130,8 @@
       sentiment: "informatief"
       tags: ["gemeentegids", "voorzieningen", "organisaties", "Zoeterwoude"]
       vertrouwelijkheid: "openbaar"
----
 
-  - document:
+- document:
       titel: "Gemini Deep Search – Warmtetransitie Zoeterwoude-Rijndijk"
       bestand: "250907 Gemini Deep Search.pdf"
       type: "onderzoeksrapport"
@@ -49,9 +146,7 @@
       tags: ["onderzoeksrapport", "warmtetransitie", "Rijndijk", "analyse", "participatie", "media", "communicatiestrategie"]
       vertrouwelijkheid: "intern"
 
----
-
-  - document:
+- document:
       titel: "Zoeterwoude Gaat GOED – Gemeentekrant mei 2022"
       bestand: "25236 36 goed krant.pdf"
       type: "gemeentekrant"
@@ -76,7 +171,7 @@
       tags: ["gemeentekrant", "GOED", "biodiversiteit", "duurzaamheid", "energietransitie", "participatie", "Zoeterwoude"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Zoeterwoude Gaat GOED – Gemeentekrant najaar 2022"
       bestand: "25236 36 goed krant najaar 2022.pdf"
       type: "gemeentekrant"
@@ -98,7 +193,7 @@
       tags: ["gemeentekrant", "GOED", "isolatie", "energie", "participatie", "Zoeterwoude"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Zoeterwoude Gaat GOED – Gemeentekrant voorjaar 2023"
       bestand: "25236 36 goed krant voorjaar 2023.pdf"
       type: "gemeentekrant"
@@ -120,7 +215,7 @@
       tags: ["gemeentekrant", "GOED", "gezondheid", "klimaatadaptatie", "duurzaamheid", "Zoeterwoude"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Zoeterwoude Gaat GOED – Gemeentekrant najaar 2023"
       bestand: "25236 36 goed krant najaar 2023.pdf"
       type: "gemeentekrant"
@@ -142,8 +237,7 @@
       tags: ["gemeentekrant", "GOED", "warmtenet", "participatie", "isolatie", "Zoeterwoude"]
       vertrouwelijkheid: "openbaar"
 
-
-  - document:
+- document:
       titel: "Clippings Nieuwsartikelen Warmtenet Rijndijk"
       bestand: "25236 36 clippings.md"
       type: "clippings"
@@ -167,9 +261,7 @@
         - Rapportages over bewonerskeuze: 41% warmtenet, 37% waterstof.
         - Overzicht subsidies en regelingen voor inwoners en ondernemers.
 
- 
-
- - document:
+- document:
       titel: "Rijndijk Aardgasvrij 2030 - Website Artikel"
       bestand: "Rijndijk Aardgasvrij 2030  Goed Zoeterwoude.md"
       type: "website-artikel"
@@ -184,7 +276,7 @@
       tags: ["website", "bewonerskeuze", "warmtenet", "communicatie", "resultaten"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Zoeterwouds Handvat voor Participatie"
       bestand: "Zoeterwouds handvat voor participatie.pdf"
       type: "handvat"
@@ -199,7 +291,7 @@
       tags: ["handvat", "participatie", "werkwijze", "rolverdeling", "gemeente", "samenspel"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Rekenkamer Rapport - Inwoners- en Overheidsparticipatie"
       bestand: "Rekenkamer rapport participatie Zoeterwoude.pdf"
       type: "onderzoeksrapport"
@@ -214,7 +306,7 @@
       tags: ["rekenkamer", "onderzoek", "participatie", "kwaliteit", "aanbevelingen", "evaluatie"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "BCM Week 36 - Studio Transitie Video Overzicht"
       bestand: "BCM 250907 36 video's gemeente.txt"
       type: "video-analyse"
@@ -229,7 +321,7 @@
       tags: ["video-analyse", "communicatiestijlen", "doelgroepen", "Studio Transitie", "week 36", "energietransitie"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Sociale Kaart Zoeterwoude v15"
       bestand: "Sociale_Kaart_v15.pdf"
       type: "sociale kaart"
@@ -244,7 +336,7 @@
       tags: ["sociale kaart", "welzijn", "ondersteuning", "organisaties", "voorzieningen", "inwoners", "netwerk"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Aantekeningen 25-08"
       bestand: "Aantekeningen 25-08.md"
       type: "werksessie"
@@ -259,7 +351,7 @@
       tags: ["vergadering", "participatie", "planning", "budget", "takenverdeling", "stakeholders"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Voorbereiding Slides"
       bestand: "voorbereiding_slides.md"
       type: "presentatie"
@@ -274,7 +366,7 @@
       tags: ["presentatie", "strategie", "participatie", "communicatiemoment"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Voorbereiding Communicatie Warmtenet Rijndijk"
       bestand: "Voorbereiding Communicatie Warmtenet Rijndijk - Sicko van Dijk.md"
       type: "voorbereiding"
@@ -289,7 +381,7 @@
       tags: ["strategie", "deliverables", "communicatiemoment", "doelgroepanalyse"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Opdrachtformulier Interactieve Werksessie"
       bestand: "Opdracht formulier interactieve werksessie Zoeterwoude.pdf"
       type: "contract"
@@ -304,7 +396,7 @@
       tags: ["contract", "budget", "taakverdeling", "looptijd"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Kennismaking Zoeterwoude Presentatie"
       bestand: "250719 Kennismaking Zoeterwoude.pdf"
       type: "presentatie"
@@ -319,7 +411,7 @@
       tags: ["kennismaking", "participatie", "doelgroepen", "communicatiestijlen"]
       vertrouwelijkheid: "intern"
 
-  - document:
+- document:
       titel: "Lokale Transitievisie Warmte Zoeterwoude"
       bestand: "Lokale_Transitievisie_Warmte.pdf"
       type: "beleidsdocument"
@@ -334,7 +426,7 @@
       tags: ["beleid", "transitievisie", "warmtenet", "Rijndijk", "gemeenteraad"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Factsheet Warmtenetten"
       bestand: "FactsheetWarmtenettengecomprimeerd.pdf"
       type: "factsheet"
@@ -349,7 +441,7 @@
       tags: ["factsheet", "kosten", "warmtenet", "technische informatie"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Logboek Participatie Omgevingsvisie Zoeterwoude"
       bestand: "Logboek_participatie_Omgevingsvisie_Zoeterwoude.pdf"
       type: "participatieverslag"
@@ -364,7 +456,7 @@
       tags: ["participatie", "omgevingsvisie", "Zoeterwoude", "inwoners", "ketenpartners", "Rijndijk"]
       vertrouwelijkheid: "openbaar"
 
-  - document:
+- document:
       titel: "Van Gas Los - Uitvoeringsproject Rijndijk"
       bestand: "VanGasLos.pdf"
       type: "beleidsdocument"
@@ -378,6 +470,36 @@
       sentiment: "neutraal"
       tags: ["energietransitie", "warmte", "participatie", "Zoeterwoude", "Rijndijk", "subsidies", "planning"]
       vertrouwelijkheid: "openbaar"
+
+- document:
+      titel: "Zoeterwoude Warmtetransitie – Printscreens voorbereiding"
+      bestand: "25236 37 printscreens [01].pdf"
+      type: "werksdocument"
+      datum: "2025-09-20"
+      beschrijving: "Printscreens van voorbereidende documenten: participatievragen, clustering van thema’s, veelgestelde vragen en concept message house voor de warmtetransitie in Rijndijk."
+      status: "concept"
+      eigenaar: "Beaumont Communicatie"
+      bron: "intern"
+      gewicht: 4
+      relevantie: "strategie"
+      sentiment: "analytisch"
+      tags: ["participatie", "FAQ", "message house", "strategie", "Rijndijk"]
+      vertrouwelijkheid: "intern"
+
+- document:
+      titel: "Voorbereiding Interactieve Werksessie – Communicatie Warmtenet Zoeterwoude Rijndijk"
+      bestand: "25236 37 zoeterwoude voorbereiding [04].pdf"
+      type: "presentatie"
+      datum: "2025-09-26"
+      beschrijving: "Presentatie voor interactieve werksessie over communicatie rond het warmtenet in Rijndijk. Bevat doelgroepenanalyse, communicatiestrategie, best practices, risico’s, stakeholderanalyse en concept message house."
+      status: "concept"
+      eigenaar: "Beaumont Communicatie"
+      bron: "intern"
+      gewicht: 4
+      relevantie: "strategie"
+      sentiment: "constructief"
+      tags: ["presentatie", "strategie", "participatie", "doelgroepen", "message house", "stakeholders"]
+      vertrouwelijkheid: "intern"
 
 # Metadata project
 project_info:
@@ -411,7 +533,3 @@ relevantie_legenda:
   project: "Projectmanagement en organisatie"
   achtergrond: "Achtergrondinformatie en context"
   analyse: "Analyses en onderzoeksresultaten"
-
-
-
-
